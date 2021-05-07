@@ -11,8 +11,7 @@ deep learning tools for smartbow
 Firstly, you are supposed to 
 
 ## 2. how to make your jupyter lab a wonderful place to 
-
-
+there is a change here
 
 ### devote 
 
