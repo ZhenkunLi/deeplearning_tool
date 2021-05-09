@@ -15,7 +15,12 @@ there is a change here
 
 ### devote 
 
+<<<<<<< Updated upstream
 
 change newbranch
+=======
+I need to update the readme file sincerely.
+
+>>>>>>> Stashed changes
 
 ### make 
