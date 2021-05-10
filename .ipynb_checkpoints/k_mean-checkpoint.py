@@ -7,4 +7,4 @@ print('kkk,2020.05.09')
 
 print('kkk,20200510')
 
-print(520)
+print(5201314)
