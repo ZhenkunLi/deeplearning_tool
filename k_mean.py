@@ -7,4 +7,9 @@ print('kkk,2020.05.09')
 
 print('kkk,20200510')
 
+<<<<<<< HEAD
 print(52333)
+=======
+print(52333)
+print('1221euoihfajdlkshfljk')
+>>>>>>> parent of a6b54c9 (Update k_mean.py)
