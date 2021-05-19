@@ -7,6 +7,9 @@ deep learning tools for smartbow
 
 ## 1. solution
 
+<img src="https://github.com/ZhenkunLi/ZhenkunLi/blob/main/save_pictures/1.jpg?raw=true" alt="panda's pic" style="zoom:80%;" />
+
+how to add panda's pics
 
 Firstly, you are supposed to 
 
